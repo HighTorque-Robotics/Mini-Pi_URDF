@@ -1,6 +1,0 @@
-python scripts/tools/convert_urdf.py \
-  /home/sunteng/lab_ws/LeggedLab/legged_lab/resources/pi_12dof_release_v1/urdf/pi_12dof_release_v2_rl.urdf \
-  /home/sunteng/lab_ws/LeggedLab/legged_lab/assets/high_torque/pi/pi.usd \
-  --joint-stiffness 0.0 \
-  --joint-damping 0.0 \
-  --joint-target-type none
